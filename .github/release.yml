@@ -5,7 +5,7 @@ changelog:
     labels:
       - ignore-for-release
     authors:
-      - octocat
+      - Bre
   categories:
     - title: Breaking Changes 🛠
       labels:
